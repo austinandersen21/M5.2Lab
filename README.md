@@ -28,6 +28,12 @@ To run the tests for the project, run the following command:
 npm test
 ```
 
+## How to run
+If you are in VSCode, simply click the "open preview" button while in the HTML document to view the webpage, or you can copy and paste this link into your chosen browser:
+
+http://127.0.0.1:3000/index.html
+
+
 ## Accessibility Lab Answers
 I tested the background/foreground color contrast using a contrast checker at https://webaim.org/resources/contrastchecker/. The contrast ratio for green and black was 4.08:1, which failed most tests aside from one of the larger-text tests, and the graphical interface test. However for general text, it failed. As a result, I chose to simply go with the color white.
 A white background and black text had a 21:1 contrast ratio, which passed all the tests.
