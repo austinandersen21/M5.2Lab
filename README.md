@@ -27,3 +27,9 @@ To run the tests for the project, run the following command:
 ```bash
 npm test
 ```
+
+## Accessibility Lab Answers
+The text/background contrast was poor.
+
+
+Using the keyboard to explore the website did not function as expected. You could use the arrows to scroll the page, and tab to explore the different elements, some of the buttons weren't reachable via the tab button such as the "comments" button at the bottom of the page. 
